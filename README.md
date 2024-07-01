@@ -1,16 +1,5 @@
-# home
+# Facebook home screen clone
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[screencast-Genymotion-2024-07-01_19.40.54.941.webm](https://github.com/mahmoud-momen/Facebook/assets/87393734/fb0b143b-9fb1-419d-8dc1-54aaba0a5b71)
